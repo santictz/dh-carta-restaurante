@@ -1,8 +1,8 @@
 # Ejercitacion Presencial 1
 
-## Ejercicios realizado con Digital House por Santiago Cortez
+## Ejercicios realizados junto a Digital House por Santiago Cortez
 
-Esta ejercitacion consta en la recreacion de various mockups, teniendo que realizar:
+Esta ejercitacion consta en la recreacion de various mockups, cumpliendo con los siguientes objetivos:
 
 * Maquetacion HTML
 * Estilo CSS
